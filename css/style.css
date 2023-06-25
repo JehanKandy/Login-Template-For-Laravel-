@@ -1,15 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Pacifico&family=Roboto&family=Rubik&display=swap');
-:root{
-    --card-color: rgb(255, 255, 255);
-    --card-title: 'Kanit', sans-serif;
+@import url("https://fonts.googleapis.com/css2?family=Kanit&family=Pacifico&family=Roboto&family=Rubik&display=swap");
+:root {
+  --card-color: rgb(255, 255, 255);
+  --card-title: "Kanit", sans-serif;
 }
+
 .main-content {
   background: linear-gradient(to top left, #0066ff 0%, #ff66cc 100%);
   height: 100vh;
 }
-.login-card{
-    background-color: var(--card-color);
-    padding: 20px;
-    margin-top: 50px;
-    border-radius: 5px;
+
+.login-card {
+  background-color: var(--card-color);
+  padding: 20px;
+  margin-top: 50px;
+  border-radius: 5px;
 }
