@@ -2,6 +2,7 @@
 :root{
     --card-color: rgb(255, 255, 255);
     --card-title: 'Kanit', sans-serif;
+    --btn-text-color: white; 
 }
 .main-content {
   background: linear-gradient(to top left, #0066ff 0%, #ff66cc 100%);
@@ -19,5 +20,14 @@
     text-align: center;
 }
 .login-body label{
-    padding-bottom: 10px;
+    padding: 10px;
+}
+.login-btn{
+    width: 100%;
+    margin: 20px 0;
+    background: linear-gradient(to top left, #0066ff 0%, #ff66cc 100%);
+    color: var(--btn-text-color);
+    border: none;
+    border-radius: 2px;
+    height: 40px;
 }
