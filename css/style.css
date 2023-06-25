@@ -21,3 +21,7 @@
   font-size: 20px;
   text-align: center;
 }
+
+.login-body label {
+  padding-bottom: 10px;
+}
