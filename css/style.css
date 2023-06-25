@@ -3,6 +3,7 @@
   --card-color: rgb(255, 255, 255);
   --card-title: "Kanit", sans-serif;
   --btn-text-color: white;
+  --btn-hover-time: 0.5s;
 }
 
 .main-content {
@@ -27,6 +28,11 @@
   padding: 10px;
 }
 
+.develop {
+  text-align: center;
+  font-weight: 500;
+}
+
 .login-btn {
   width: 100%;
   margin: 20px 0;
@@ -36,4 +42,10 @@
   border-radius: 5px;
   height: 50px;
   font-size: 20px;
+  transition: var(--btn-hover-time);
+}
+
+.login-btn:hover {
+  background: linear-gradient(to top left, #ff66ff 0%, #0099ff 100%);
+  cursor: pointer;
 }
