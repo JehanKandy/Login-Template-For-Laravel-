@@ -15,3 +15,8 @@
   margin-top: 50px;
   border-radius: 5px;
 }
+
+.login-title {
+  font-family: var(--card-title);
+  font-size: 20px;
+}
