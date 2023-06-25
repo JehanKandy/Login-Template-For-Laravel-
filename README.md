@@ -1,5 +1,9 @@
 # Laravel Login Templates
 
+- This is the basic Login Templates for any laravel Project
+- Developer shoud customize the Templates for the any Project
+
+
 # Developers 
 
 ### JehanKandy
