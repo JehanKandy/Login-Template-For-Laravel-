@@ -10,4 +10,5 @@
 .login-card{
     background-color: var(--card-color);
     padding: 20px;
+    margin-top: 50px;
 }
