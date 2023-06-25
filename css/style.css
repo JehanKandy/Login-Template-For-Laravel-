@@ -11,4 +11,5 @@
     background-color: var(--card-color);
     padding: 20px;
     margin-top: 50px;
+    border-radius: 5px;
 }
