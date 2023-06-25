@@ -4,4 +4,4 @@
 
 ### JehanKandy
 
-- (JehanKandy)[https://github.com/JehanKandy]
+- [JehanKandy](https://github.com/JehanKandy)
