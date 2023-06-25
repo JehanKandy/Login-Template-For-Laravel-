@@ -2,6 +2,7 @@
 
 - This is the basic Login Templates for any laravel Project
 - Developer shoud customize the Templates for the any Project
+- If the Project need more Templates develop it.
 
 
 # Developers 
